@@ -8,7 +8,7 @@ Nesse perfil do GitHub temos uma outra cena profissional minha em ação: a de c
 - 🤓 Eu amo estudar e ter um desafio novo diário, isso me mantém empolgada na minha rotina profissional e pessoal.
 
 ## Principais focos de estudo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
 
 
 <!--
