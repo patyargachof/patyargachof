@@ -9,7 +9,7 @@ Nesse perfil do GitHub temos uma outra cena profissional minha em ação: a de c
 
 ## Principais focos de estudo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 <!--
 **patyargachof/patyargachof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
