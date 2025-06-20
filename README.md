@@ -2,7 +2,7 @@
 
 Nesse perfil do GitHub temos uma outra cena profissional minha em ação: a de curiosa e estudante na área de TI.
 
-## Curiosidades:
+## Jornada Profissional:
 - ⚡ Atualmente eu trabalho como Editora Executiva em uma Editora que também atua na área de desenvolvimento de sistemas e sites.
 - 🌱 Minha formação acadêmica é bem diversa: bacharel em odontologia com pós-graduação em saúde pública, licenciada em letras português e inglês, com ampla expertise na área de marketing digital, especialista em retratos femininos e, mais recentemente, pelo interesse relacionado ao universo de inteligência artificial estou começando meus estudos na área de programação.
 - 🤓 Eu amo estudar e ter um desafio novo diário, isso me mantém empolgada na minha rotina profissional e pessoal.
