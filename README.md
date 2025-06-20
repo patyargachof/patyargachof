@@ -8,7 +8,12 @@ Nesse perfil do GitHub temos uma outra cena profissional minha em ação: a de c
 - 🤓 Eu amo estudar e ter um desafio novo diário, isso me mantém empolgada na minha rotina profissional e pessoal.
 
 ## Principais focos de estudo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>   **INTELIGÊNCIA ARTIFICIAL**
+✅ 💬 **INTELIGÊNCIA ARTIFICIAL**
+✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>   
+✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>   
+✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+                    
 
 <!--
 **patyargachof/patyargachof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
